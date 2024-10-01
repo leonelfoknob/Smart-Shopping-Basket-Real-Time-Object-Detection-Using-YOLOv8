@@ -2,7 +2,7 @@
 
 The objective of this project is to leverage AI technology to enhance the shopping experience. The system detects items placed in a shopping basket using an AI model, identifies them in real time, and, in future iterations, will calculate the total price and provide the final amount at checkout. This project introduces an AI-powered system that recognizes products without the need for manual input, offering a streamlined and convenient experience for customers and retailers.
 
-- Video Link: #################.
+- Video Link: https://youtu.be/MfNyANgFYd8
 
 ## Current Stage: 
 
