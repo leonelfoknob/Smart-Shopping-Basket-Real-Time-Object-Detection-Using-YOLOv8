@@ -4,7 +4,9 @@ The objective of this project is to leverage AI technology to enhance the shoppi
 
 - Video Link: #################.
 
-## Current Stage: At this stage, the focus is on object detection using the YOLOv8 model. The system accurately recognizes different items placed in the basket and displays the results in real time. Future work will involve integrating price calculation for each item and saving the data into a database, completing the automated checkout process.
+## Current Stage: 
+
+At this stage, the focus is on object detection using the YOLOv8 model. The system accurately recognizes different items placed in the basket and displays the results in real time. Future work will involve integrating price calculation for each item and saving the data into a database, completing the automated checkout process.
 
   - Technology and Tools Used:
 
