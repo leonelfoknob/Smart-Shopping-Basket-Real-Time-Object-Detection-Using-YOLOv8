@@ -1,0 +1,13 @@
+train: C:\Users\leone\Desktop\makinafleo_project\bionluk_yolo_urun tanımak\dataset\train\images
+val: C:\Users\leone\Desktop\makinafleo_project\bionluk_yolo_urun tanımak\dataset\valid\images
+test: C:\Users\leone\Desktop\makinafleo_project\bionluk_yolo_urun tanımak\dataset\test\images
+
+nc: 3
+names: ['chocolate', 'juice', 'milk']
+
+roboflow:
+  workspace: computervision-of3yl
+  project: urun_tanimak
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/computervision-of3yl/urun_tanimak/dataset/1
